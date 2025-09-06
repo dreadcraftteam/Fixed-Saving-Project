@@ -1,4 +1,4 @@
-## Fixed Online Saving
+## Fixed-Saving-Project
 This is a project aimed at fixing saves in Minecraft Classic.
 
 Pull requests are welcome!
